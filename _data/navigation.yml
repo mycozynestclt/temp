@@ -1,0 +1,19 @@
+main:
+  # - title: "Posts"
+  #   url: /posts/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  # - title: "About"
+  #   url: /about/
+  # - title: "Resources"
+  #   url: /resources/
+  # - title: "Philosophy"
+  #   url: /philosophy/
+  - title: "Home Decor"
+    url: /home-decor/
+  - title: "Wall Decor"
+    url: /wall-decor/
+  - title: "Furniture"
+    url: /furniture/
